@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogNet", "BlogNet.csproj", "{586C6F54-C66C-42CF-987D-61DFABE6C290}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{586C6F54-C66C-42CF-987D-61DFABE6C290}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{586C6F54-C66C-42CF-987D-61DFABE6C290}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{586C6F54-C66C-42CF-987D-61DFABE6C290}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{586C6F54-C66C-42CF-987D-61DFABE6C290}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
